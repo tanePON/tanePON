@@ -1,4 +1,5 @@
-### Hi there 👋
+I will mainly be doing AR and VR development with Unity.
+Also, website development, etc.
 
 <!--
 **tanePON/tanePON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
