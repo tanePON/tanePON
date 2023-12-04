@@ -1,6 +1,11 @@
 I will mainly be doing AR and VR development with Unity.
 Also, website development, etc.
 
+<img
+  src="https://github.com/tanePON/tanePON/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <!--
 **tanePON/tanePON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
